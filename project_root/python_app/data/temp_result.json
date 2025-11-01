@@ -1,0 +1,15 @@
+{
+  "red_user_choice": null,
+  "green_correct": false,
+  "correct": false,
+  "green_correct_choice": 0,
+  "total_teams": 4,
+  "blue_user_choice": null,
+  "correct_answers": 0,
+  "blue_correct": false,
+  "red_correct_choice": 2,
+  "blue_correct_choice": 1,
+  "red_correct": false,
+  "green_user_choice": null,
+  "scenario_title": "دورية الحركة في القطاع A"
+}
