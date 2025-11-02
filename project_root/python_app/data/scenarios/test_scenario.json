@@ -1,0 +1,24 @@
+{
+  "title": "Test Scenario - سيناريو اختبار",
+  "background": "test_map.jpg",
+  "teams": [
+    {
+      "color": "red",
+      "squads": [
+        {
+          "move_1": [{"x": 100, "y": 100, "order": 1}],
+          "move_2": [{"x": 200, "y": 200, "order": 1}],
+          "move_3": [{"x": 300, "y": 300, "order": 1}]
+        }
+      ],
+      "right_move": 0,
+      "explanations": {
+        "right": "This is the correct move explanation",
+        "wrong_1": "This is the first wrong move explanation",
+        "wrong_2": "This is the second wrong move explanation"
+      }
+    }
+  ],
+  "created_by": "admin",
+  "date": "2024-01-10"
+}
